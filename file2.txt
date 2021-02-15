@@ -1,1 +1,2 @@
 Second
+Second line on file2
